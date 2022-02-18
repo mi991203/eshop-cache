@@ -1,0 +1,8 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://192.168.137.40:3306/eshop
+    driver-class-name: com.mysql.jdbc.Driver
+    username: eshop
+    password: eshop
